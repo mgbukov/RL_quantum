@@ -8,5 +8,6 @@ Required packages:
 * numpy
 * scipy
 * matplotlib
+* jupyter lab
 * ipywidgets
 * IPython
