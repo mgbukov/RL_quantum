@@ -1,7 +1,7 @@
 # Toy RL agents for qubit state preparation
 
 
-This repository contains some jupyter notebooks that train an RL (policy gradient) agent to prepare quantum states using JAX, and visualize the learned solution on the Bloch sphere. 
+This repository contains some jupyter notebooks that train an RL (policy gradient) agent to prepare quantum states using JAX, and visualize the learned solution on the Bloch sphere using a QuTip function. 
 
 Required packages:
 * [jax](https://jax.readthedocs.io/en/latest/)
